@@ -1,7 +1,7 @@
 # 📡 ClassCord — Client de messagerie réseau local (BTS SIO SLAM)
 
 ## 👤 Auteur
-**Nom** : [Ton nom ici]  
+**Nom** : Rudy DIMINO
 **Classe** : BTS SIO SLAM — Promo 2024  
 
 ## 📌 Présentation
